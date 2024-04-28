@@ -262,3 +262,4 @@ for message in messages:
 cursor.close()
 conn.close()
 print('fafa')
+print('ghig')
